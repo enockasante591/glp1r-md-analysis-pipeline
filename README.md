@@ -22,7 +22,7 @@ The pipeline performs the following analyses:
 
 ### Structural Stability
 - Root Mean Square Deviation (RMSD)
-  - Protein backbone
+  - Protein 
   - Ligand
 - Root Mean Square Fluctuation (RMSF)
 - Radius of Gyration (Rg)
